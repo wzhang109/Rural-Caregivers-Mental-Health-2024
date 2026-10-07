@@ -24,14 +24,6 @@ of an intervention does not make the observational income and education
 comparisons randomized. The thesis is not an evaluation of that intervention's
 treatment effect or an estimate of effects on children's mental health.
 
-## Version and reading notes
-
-The PDF is an unchanged archival copy supplied by the author, rather than a
-newly corrected manuscript or independently replicated analysis. A document
-review on October 7, 2026 identified inconsistent model descriptions, a
-summary-statistic error and several reporting/interpretation issues. Please
-read the [clarifications](docs/READING_NOTES_2026-10-07.md) alongside the PDF.
-The original estimates have not been rerun in this repository.
 
 ## Files and reproducibility
 
